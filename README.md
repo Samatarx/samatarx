@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on ... learning backend technologies
-- 👯 I’m looking to collaborate on ... any meaningful opensource projects
+- 🔭 I’m currently working on ... my own ideas
 - ⚡ Fun fact: ... I am a ~~Structural~~ Software Engineer
 -->
